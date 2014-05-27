@@ -26,7 +26,7 @@ Go to the /dist folder and type the following:
 
 ##Requirements
 To run CssWorker you need to have:<br/>
-- java 7 installed<br/>
+- Java 7<br/>
 
 ##Work in progress
 - set proxy
