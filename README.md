@@ -24,8 +24,11 @@ Go to the /dist folder and type the following:
 2. to run the project from the command line <br/>
 ```java -jar "CssWorker.jar"```
 
+##Requirements
+To run CssWorker you need to have:<br/>
+- java 7 installed<br/>
+
 ##Work in progress
-<br/>
 - set proxy
 
 
