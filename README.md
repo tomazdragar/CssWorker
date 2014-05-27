@@ -1,31 +1,32 @@
 #CssWorker
 
-CssWorker is a great program for managing CSS files.
+CssWorker is a great program for managing CSS files.<br/>
 
 ##Features
-CSS
-*generate css from html
-*sort css selectors
-*format css selectors
-*remove empty css selectors
-*save changes
+CSS<br/>
+- generate css from html<br/>
+- sort css selectors<br/>
+- format css selectors<br/>
+- remove empty css selectors<br/>
+- save changes<br/>
 
-HTML
-*load html from url
-*load html from file
-*save changes
+HTML<br/>
+- load html from url<br/>
+- load html from file<br/>
+- save changes<br/>
 
 ##How to use it
 Go to the /dist folder and type the following:
 
-1. you need to change permissions to "CssWorker.jar"
+1. you need to change permissions to "CssWorker.jar"<br/>
 ```sudo chmod u+x "CssWorker.jar"```
 
-2. to run the project from the command line 
+2. to run the project from the command line <br/>
 ```java -jar "CssWorker.jar"```
 
 ##Work in progress
-*set proxy
+<br/>
+- set proxy
 
 
 ##About author
