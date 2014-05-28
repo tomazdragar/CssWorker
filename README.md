@@ -1,4 +1,5 @@
 #CssWorker
+<img src='http://dragar.net/demo/CssWorker/images/code.jpg'/><br/>
 
 CssWorker is a great program for managing CSS files.<br/>
 
